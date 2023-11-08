@@ -52,7 +52,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /* ---------------------typed js-------------------*/
 const typed = new Typed('.multiple-text', {
-    strings: [' a Student at Rajarata University of Sri Lanka', ' an Artist', ' a Programmer(Java, C, C++)', ' a Frontend Developer'],
+    strings: [' a Student at Colombo University of Sri Lanka', ' an Artist', ' a Programmer(Java, C, C++,C#)', ' a Frontend Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
